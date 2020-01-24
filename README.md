@@ -1,5 +1,10 @@
 # cloudinary-demo
 
+Demonstration of how to upload files to Cloudinary using Vue, Vuetify and Cloudinary.
+
+## My Article
+
+
 ## Project setup
 ```
 npm install
@@ -9,7 +14,7 @@ npm install
 ```
 npm run serve
 ```
-
+ 
 ### Compiles and minifies for production
 ```
 npm run build
