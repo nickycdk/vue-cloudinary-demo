@@ -2,9 +2,8 @@
 
 Demonstration of how to upload files to Cloudinary using Vue, Vuetify and Cloudinary.
 
-## Checkout the tutorial on Medium
+## Checkout the article on Medium
 https://medium.com/p/dd45472c4fd6/
-
 
 ## Project setup
 ```
